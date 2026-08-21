@@ -13,7 +13,7 @@ const CONFIG = {
   phoneRaw: "+918168575655",
   whatsappNumber: "918168575655", // Format: Country code without + followed by 10 digits
   defaultWaMessage: "Hello, I would like to know more about Nursing On Call services.",
-  serviceAreas: ["Bhiwadi", "Dharuhera", "Neemrana", "Chopanki", "Rewari", "Bawal", "Nearby Areas"]
+  serviceAreas: ["Bhiwadi", "Dharuhera", "Gurugram", "Chopanki", "Rewari", "Bawal", "Nearby Areas"]
 };
 
 /**
